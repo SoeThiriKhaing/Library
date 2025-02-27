@@ -1,0 +1,17 @@
+C:\Library\Library\Library\bin\Debug\Library.exe.config
+C:\Library\Library\Library\bin\Debug\Library.exe
+C:\Library\Library\Library\bin\Debug\Library.pdb
+C:\Library\Library\Library\obj\Debug\Library.Login.resources
+C:\Library\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Library\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Library\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Library\Library\Library\obj\Debug\Library.exe
+C:\Library\Library\Library\obj\Debug\Library.pdb
+C:\Library\Library\Library\obj\Debug\Library.Book.resources
+C:\Library\Library\Library\bin\Debug\Guna.Charts.WinForms.dll
+C:\Library\Library\Library\bin\Debug\Guna.UI2.dll
+C:\Library\Library\Library\obj\Debug\Library.csproj.CopyComplete
+C:\Library\Library\Library\obj\Debug\Library.Addbook.resources
+C:\Library\Library\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Library\Library\Library\obj\Debug\Library.Student.resources
+C:\Library\Library\Library\obj\Debug\Library.bookReturn.resources
